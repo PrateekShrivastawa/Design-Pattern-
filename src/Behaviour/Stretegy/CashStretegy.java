@@ -9,6 +9,6 @@ public class CashStretegy implements PaymentStretegy{
 
     @Override
     public void paymentStatus() {
-        System.out.println("Payment in Cash Successfull");
+        System.out.println("Payment in Cash Successfull ");
     }
 }
